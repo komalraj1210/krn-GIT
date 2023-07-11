@@ -3,3 +3,5 @@ this is from feature branch
 this is from defect branch
 
 Testing rebase from defect branch
+
+testing rebase from feature branch
